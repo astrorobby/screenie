@@ -4,9 +4,7 @@ include(Sources.pri)
 
 TARGET = $${APP_NAME}
 TEMPLATE = app
-
-# OpenGL support later
-# QT += opengl
+QT += widgets
 
 CONFIG(debug, debug|release) {
     DESTDIR = $$PWD/../../bin/debug

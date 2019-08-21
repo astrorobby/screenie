@@ -4,6 +4,7 @@ include(Sources.pri)
 
 TEMPLATE = lib
 DEFINES += KERNEL_EXPORT
+QT += widgets
 
 win32 {
   LIBS += -L$${DESTDIR} \

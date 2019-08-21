@@ -24,9 +24,9 @@
 //#include <QtCore/QByteArray>
 //#include <QtCore/QBuffer>
 #include <QtGui/QClipboard>
-#include <QtGui/QGraphicsScene>
+#include <QtWidgets/QGraphicsScene>
 #include <QtGui/QImage>
-#include <QtGui/QApplication>
+#include <QtWidgets/QApplication>
 
 #include "../../../Model/src/ScreenieScene.h"
 #include "../../../Model/src/ScreenieModelInterface.h"

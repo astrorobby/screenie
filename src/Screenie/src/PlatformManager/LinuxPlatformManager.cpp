@@ -18,9 +18,9 @@
    Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  */
 
-#include <QtGui/QAction>
+#include <QtWidgets/QAction>
 #include <QtGui/QKeySequence>
-#include <QtGui/QMainWindow>
+#include <QtWidgets/QMainWindow>
 
 #include "ui_MainWindow.h"
 #include "LinuxPlatformManager.h"
@@ -52,5 +52,5 @@ void LinuxPlatformManager::initialize(QMainWindow &mainWindow, Ui::MainWindow &m
 {
     d = new LinuxPlatformManagerPrivate(mainWindowUi);
     AbstractPlatformManager::initialize(mainWindow, mainWindowUi);
-    mainWindowUi.toggleFullScreenAction->setShortcut(QKeySequence(Qt::Key_11));
+    mainWindowUi.toggleFullScreenAction->setShortcut(QKeySequence(Qt::Key_F11));
 }
