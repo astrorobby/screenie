@@ -21,9 +21,9 @@
 #ifndef SETTINGS_H
 #define SETTINGS_H
 
-#include <QtCore/QObject>
-#include <QtCore/QPoint>
-#include <QtCore/QSize>
+#include <QObject>
+#include <QPoint>
+#include <QSize>
 
 #include "UtilsLib.h"
 

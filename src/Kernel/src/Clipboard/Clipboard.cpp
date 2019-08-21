@@ -18,15 +18,15 @@
    Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  */
 
-#include <QtCore/QUrl>
-#include <QtCore/QObject>
-#include <QtCore/QList>
-//#include <QtCore/QByteArray>
-//#include <QtCore/QBuffer>
-#include <QtGui/QClipboard>
-#include <QtWidgets/QGraphicsScene>
-#include <QtGui/QImage>
-#include <QtWidgets/QApplication>
+#include <QUrl>
+#include <QObject>
+#include <QList>
+//#include <QByteArray>
+//#include <QBuffer>
+#include <QClipboard>
+#include <QGraphicsScene>
+#include <QImage>
+#include <QApplication>
 
 #include "../../../Model/src/ScreenieScene.h"
 #include "../../../Model/src/ScreenieModelInterface.h"

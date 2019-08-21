@@ -20,23 +20,23 @@
 
 #include <cmath>
 
-#include <QtCore/QPoint>
-#include <QtCore/QMimeData>
-#include <QtCore/QUrl>
-#include <QtCore/QEvent>
-#include <QtWidgets/QGraphicsPixmapItem>
-#include <QtWidgets/QGraphicsItem>
-#include <QtWidgets/QGraphicsScene>
-#include <QtWidgets/QGraphicsView>
-#include <QtWidgets/QGraphicsSceneMouseEvent>
-#include <QtGui/QPainter>
-#include <QtGui/QPixmap>
-#include <QtGui/QFont>
-#include <QtGui/QFontMetrics>
-#include <QtGui/QImage>
-#include <QtWidgets/QDialog>
-#include <QtWidgets/QApplication>
-#include <QtWidgets/QDesktopWidget>
+#include <QPoint>
+#include <QMimeData>
+#include <QUrl>
+#include <QEvent>
+#include <QGraphicsPixmapItem>
+#include <QGraphicsItem>
+#include <QGraphicsScene>
+#include <QGraphicsView>
+#include <QGraphicsSceneMouseEvent>
+#include <QPainter>
+#include <QPixmap>
+#include <QFont>
+#include <QFontMetrics>
+#include <QImage>
+#include <QDialog>
+#include <QApplication>
+#include <QDesktopWidget>
 
 #include "../../Utils/src/PaintTools.h"
 #include "../../Model/src/ScreenieModelInterface.h"

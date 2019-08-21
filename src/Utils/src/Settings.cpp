@@ -18,14 +18,14 @@
    Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  */
 
-#include <QtCore/QSize>
-#include <QtCore/QSize>
-#include <QtCore/QString>
-#include <QtCore/QStringList>
-#include <QtCore/QSettings>
-#include <QtCore/QDir>
-#include <QtGui/QDesktopServices>
-#include <QtWidgets/QMainWindow>
+#include <QSize>
+#include <QSize>
+#include <QString>
+#include <QStringList>
+#include <QSettings>
+#include <QDir>
+#include <QDesktopServices>
+#include <QMainWindow>
 
 #include "Version.h"
 #include "Settings.h"

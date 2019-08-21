@@ -23,7 +23,7 @@
 
 class ReflectionPrivate;
 
-#include <QtGui/QPixmap>
+#include <QPixmap>
 
 #include "KernelLib.h"
 

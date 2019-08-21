@@ -21,10 +21,10 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QtCore/QList>
-#include <QtCore/QString>
-#include <QtWidgets/QWidget>
-#include <QtWidgets/QMainWindow>
+#include <QList>
+#include <QString>
+#include <QWidget>
+#include <QMainWindow>
 
 #include "RecentFiles.h"
 

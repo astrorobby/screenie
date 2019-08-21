@@ -4,4 +4,4 @@ include(Sources.pri)
 
 TEMPLATE = lib
 DEFINES += UTILS_EXPORT
-
+QT += widgets

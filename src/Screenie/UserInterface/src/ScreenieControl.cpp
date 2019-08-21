@@ -18,22 +18,22 @@
    Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  */
 
-#include <QtCore/QObject>
-#include <QtCore/QList>
-#include <QtCore/QPoint>
-#include <QtCore/QPointF>
-#include <QtCore/QStringList>
-#include <QtCore/QtAlgorithms>
-#include <QtCore/QMimeData>
-#include <QtCore/QUrl>
-#include <QtGui/QColor>
-#include <QtGui/QGraphicsView>
-#include <QtGui/QGraphicsItem>
-#include <QtGui/QBrush>
-#include <QtGui/QPixmap>
-#include <QtGui/QPainter>
-#include <QtGui/QMainWindow>
-#include <QtGui/QSlider>
+#include <QObject>
+#include <QList>
+#include <QPoint>
+#include <QPointF>
+#include <QStringList>
+#include <QtAlgorithms>
+#include <QMimeData>
+#include <QUrl>
+#include <QColor>
+#include <QGraphicsView>
+#include <QGraphicsItem>
+#include <QBrush>
+#include <QPixmap>
+#include <QPainter>
+#include <QMainWindow>
+#include <QSlider>
 
 #include "../../../Model/src/ScreenieScene.h"
 #include "../../../Model/src/ScreenieModelInterface.h"

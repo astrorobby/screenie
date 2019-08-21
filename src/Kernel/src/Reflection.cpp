@@ -18,10 +18,10 @@
    Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  */
 
-#include <QtGui/QPixmap>
-#include <QtGui/QImage>
-#include <QtGui/QLinearGradient>
-#include <QtGui/QPainter>
+#include <QPixmap>
+#include <QImage>
+#include <QLinearGradient>
+#include <QPainter>
 
 #include "Reflection.h"
 

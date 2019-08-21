@@ -18,14 +18,14 @@
    Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  */
 
-#include <QtCore/QList>
-#include <QtCore/QString>
-#include <QtCore/QVariant>
-#include <QtCore/QEvent>
-#include <QtCore/QSignalMapper>
-#include <QtWidgets/QMainWindow>
-#include <QtWidgets/QAction>
-#include <QtWidgets/QActionGroup>
+#include <QList>
+#include <QString>
+#include <QVariant>
+#include <QEvent>
+#include <QSignalMapper>
+#include <QMainWindow>
+#include <QAction>
+#include <QActionGroup>
 
 #include "../../Model/src/ScreenieScene.h"
 #include "DocumentInfo.h"
